@@ -1,2 +1,2 @@
 # login_webpage
-webpage made of HTML, CSS and JS.
+login webpage for a fictitious fantasy videogame. Also has audio.
