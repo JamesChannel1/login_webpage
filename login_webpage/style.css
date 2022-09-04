@@ -1,0 +1,57 @@
+html{
+  width:  100%;
+}
+
+header{
+  text-align: center;
+  opacity: 40%;
+}
+
+#box0
+{
+  border: 5px solid darkgoldenrod;
+  background-color: black;
+  color: gold;
+  opacity: 75%;
+  width: 500px;
+  height: 400px;
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  margin-top: -200px;
+  margin-left: -250px;
+  text-align: center;
+}
+
+
+#pad_this0
+{
+  padding-top: 20px;
+}
+
+#input0
+{
+  font-size: 12pt;
+}
+
+#pad_this1
+{
+  padding-top: 20px;
+}
+
+#input1
+{
+  font-size: 12pt;
+}
+
+#btn0
+{
+  width:80px;
+  height:32px;
+}
+
+#pad_this2
+{
+  padding-top: 40px;
+}
+
